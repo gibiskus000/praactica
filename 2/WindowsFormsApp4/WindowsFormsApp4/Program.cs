@@ -11,7 +11,7 @@ namespace RestaurantApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginForm());
-            ConsoleWriteline("енренрре")
+            Console.WriteLine("rrrrrrr");
         }
     }
 }
